@@ -1,0 +1,10 @@
+{
+  "id": 87234175,
+  "created_at": "2025-09-23T22:32:45.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["stat1080r", "beanb2.r-universe.dev"]
+}
