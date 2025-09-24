@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/beanb2/beanb2.r-universe.dev
 	branch = HEAD
+[submodule "intkrige"]
+	path = intkrige
+	url = https://github.com/beanb2/intkrige
 [submodule "stat1080r"]
 	path = stat1080r
 	url = https://github.com/beanb2/stat1080r
