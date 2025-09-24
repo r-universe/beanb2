@@ -6,5 +6,5 @@
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["stat1080r", "beanb2.r-universe.dev"]
+  "repositories": ["intkrige", "stat5100_public", "stat1080r", "beanb2.r-universe.dev"]
 }
